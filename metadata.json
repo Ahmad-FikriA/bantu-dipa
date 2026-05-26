@@ -1,0 +1,6 @@
+{
+  "name": "HealthRise EduSport",
+  "description": "Website pendaftaran resmi HealthRise EduSport, kompetisi olahraga dan kreativitas siswa/siswi berprestasi. Tetap sehat, tetap kreatif, raih gelar juara!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
